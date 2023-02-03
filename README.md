@@ -3,7 +3,7 @@
 ### Software Engineer
 
 - 👨‍💻 Currently mostly into webapps. Build most stuff using the Nextjs
-- 🌱 I’m currently learning Dapp and Nestjs
+- 🌱 I’m currently learning   ThreeJS
 - 🌍 Based in China cn
 - 🖥️ Check out my portfolio at [Here](https://2022-blog-pearl.vercel.app/)
 - 🧑‍🏫 "Best way to learn is to build shit" - [TheoBr](https://www.github.com/theobr)
