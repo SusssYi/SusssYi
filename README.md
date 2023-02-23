@@ -24,5 +24,5 @@
 <div style="display: flex;"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliusmarminge&layout=compact&langs_count=10&title_color=0891b2&text_color=e4e4e7&icon_color=0891b2&bg_color=3f3f46&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" height="229" />
 </div>
-<img src="https://activity-graph.herokuapp.com/graph?username=juliusmarminge&bg_color=3f3f46&color=e4e4e7&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width="100%" />
+
 
